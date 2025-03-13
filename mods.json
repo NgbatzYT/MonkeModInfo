@@ -9,118 +9,13 @@
         "group" : "Core"
      },
      {
-      "name" : "PowerArms",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/PowerArms",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Gameplay",
-      "dependencies" : [
-        "Utilla"
-       ]
-     },
-     {
-      "name" : "Practice Mod",
-      "tag" : "",
-      "gitPath" : "Graicc/PracticeMod",
-      "releaseId" : 0,
-      "author" : "Graic",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla",
-       "Computer Interface"
-      ]
-     },
-     {
-      "name" : "Slippery Ice",
-      "tag" : "",
-      "gitPath" : "fchb1239/SlipperyIce",
-      "releaseId" : 0,
-      "author" : "fchb1239",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla",
-       "Computer Interface"
-      ]
-     },
-     {
-      "name" : "Super Monke",
-      "tag" : "",
-      "gitPath" : "fchb1239/SuperMonke",
-      "releaseId" : 0,
-      "author" : "fchb1239",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla"
-      ]
-     },
-     {
       "name" : "Sophisticate Cube",
       "tag" : "",
       "gitPath" : "NgbatzYT/SophisticatedCube",
       "releaseId" : 0,
       "author" : "A Haunted Army",
       "group" : "Gameplay",
-     },
-     {
-      "name" : "BrokenController",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/BrokenController",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Tweaks / Tools"
-     },
-     {
-      "name" : "Haunted Panel",
-      "tag" : "",
-      "gitPath" : "NgbatzYT/HauntedModMenu",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Tweaks / Tools",
-      "dependencies" : [
-        "Utilla"
-      ]
-     },
-     {
-        "name" : "Utilla",
-        "tag" : "",
-        "gitPath" : "Ngbatz/NewtillaFix",
-        "releaseId" : 0,
-        "author" : "Ngbatz",
-        "group" : "Libraries"
-     },
-     {
-       "name" : "Computer Interface",
-       "tag" : "",
-       "gitPath" : "/ComputerInterface",
-       "releaseId": 0,
-       "author" : "",
-       "group" : "Libraries",
-       "dependencies" : [
-         "Bepinject"
-       ]
-     },
-     {
-       "name" : "Bepinject",
-       "tag" : "",
-       "gitPath" : "Auros/Bepinject",
-       "releaseId": 0,
-       "author" : "Auros",
-       "group" : "Libraries",
-       "installPath" : "BepInEx/plugins",
-       "dependencies" : [
-         "Extenject"
-       ]
-     },
-     {
-       "name" : "Extenject",
-       "tag" : "",
-       "gitPath" : "Auros/Bepinject",
-       "releaseId": 1,
-       "author" : "svermeulen",
-       "group" : "Libraries",
-       "installPath" : "BepInEx/plugins"
-     },
+     }
   ],
   "groups" : [
     {
