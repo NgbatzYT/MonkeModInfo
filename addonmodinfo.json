@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "Themes",
+    "rank" : 0
+  },
+  {
+    "name" : "Platforms",
+    "rank" : 1
+  },
+  {
+    "name" : "Shirts",
+    "rank" : 2
+  },
+  {
+    "name" : "Yes",
+    "rank" : 3
+  },
+  {
+    "name" : "No",
+    "rank" : 4
+  }
+]
