@@ -1,14 +1,14 @@
 [
   {
-    "name" : "Themes",
+    "name" : "theme",
     "rank" : 0
   },
   {
-    "name" : "Platforms",
+    "name" : "platform",
     "rank" : 1
   },
   {
-    "name" : "Shirts",
+    "name" : "shirt",
     "rank" : 2
   },
   {
