@@ -5,7 +5,7 @@
     "description": "🐀🟦",
     "mod": "Index",
     "install_location": "BepInEx/plugins/Index/Loaders/Themes/",
-    "group": "theme",
+    "group": "Themes",
     "download_url": "https://github.com/NgbatzYT/MonkeModInfo/raw/refs/heads/master/Themes/rat2.indextheme"
   }
 ]
