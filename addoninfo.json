@@ -3,6 +3,7 @@
     "name": "Rat Theme Opaque",
     "author": "NgbatzYT",
     "description": "🐀🟦",
+    "mod": "Index",
     "group": "theme",
     "download_url": "https://cdn.discordapp.com/attachments/1352423791002652723/1352423791581597726/rat2.indextheme?ex=67de9f0e&is=67dd4d8e&hm=badd78dca66b108c5e9de8cbcc697fae445a7b4b1e11fbc5aa2f536cd07003a3&"
   },
@@ -11,6 +12,7 @@
     "author": "zaynethedev",
     "description": "Adds a crystal-like theme to your platforms.",
     "group": "platform",
+    "mod": "Index",
     "download_url": "blah blah you get a download link from here"
   }
 ]
