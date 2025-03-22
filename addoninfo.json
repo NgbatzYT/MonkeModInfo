@@ -6,6 +6,42 @@
     "mod": "Index",
     "install_location": "BepInEx/plugins/Index/Loaders/Themes/",
     "group": "Themes",
-    "download_url": "https://github.com/NgbatzYT/MonkeModInfo/raw/refs/heads/master/Themes/rat2.indextheme"
+    "download_url": "https://github.com/zaynethedev/Index-Customization-Vault/raw/refs/heads/main/Themes/rat_theme.indextheme"
+  },
+  {
+    "name": "Crystal Blue",
+    "author": "zaynethedev",
+    "description": "A blue version of the purple cracks theme packaged with Index.",
+    "mod": "Index",
+    "install_location": "BepInEx/plugins/Index/Loaders/Themes/",
+    "group": "Themes",
+    "download_url": "https://github.com/zaynethedev/Index-Customization-Vault/raw/refs/heads/main/Themes/crystal_blue.indextheme"
+  },
+  {
+    "name": "Purple Cracks",
+    "author": "zaynethedev",
+    "description": "Adds a purple cracking theme to the panel!",
+    "mod": "Index",
+    "install_location": "BepInEx/plugins/Index/Loaders/Themes/",
+    "group": "Themes",
+    "download_url": "https://github.com/zaynethedev/Index-Customization-Vault/raw/refs/heads/main/Themes/purple_cracks.indextheme"
+  },
+  {
+    "name": "Glass Crystals",
+    "author": "zaynethedev",
+    "description": "A white crystal material, that looks like glass.",
+    "mod": "Index",
+    "install_location": "BepInEx/plugins/Index/Loaders/Themes/",
+    "group": "Themes",
+    "download_url": "https://github.com/zaynethedev/Index-Customization-Vault/raw/refs/heads/main/Themes/glass_crystals.indextheme"
+  },
+  {
+    "name": "Crystal Platform",
+    "author": "zaynethedev",
+    "description": "Adds a crystal-look to your platorms, along with a rounded style.",
+    "mod": "Index",
+    "install_location": "BepInEx/plugins/Index/Loaders/Platforms/",
+    "group": "Platforms",
+    "download_url": "https://github.com/zaynethedev/Index-Customization-Vault/raw/refs/heads/main/Platforms/crystal_platform.indexplatform"
   }
 ]
