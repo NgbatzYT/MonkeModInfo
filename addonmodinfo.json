@@ -1,22 +1,22 @@
 [
   {
-    "name" : "theme",
+    "name" : "Themes",
     "rank" : 0
   },
   {
-    "name" : "platform",
+    "name" : "Platforms",
     "rank" : 1
   },
   {
-    "name" : "shirt",
+    "name" : "Shirts",
     "rank" : 2
   },
   {
-    "name" : "Yes",
+    "name" : "Cosmetics",
     "rank" : 3
   },
   {
-    "name" : "No",
+    "name" : "Computer Interface",
     "rank" : 4
   }
 ]
