@@ -1,6 +1,6 @@
 [
   {
-    "name": "AreYouBored",
+    "name": "Totally real mod that totally exists trust me!",
     "author": "Ngbatz",
     "version": "1.0.0",
     "git_path": "NgbatzYT/AreYouBored",
@@ -16,7 +16,7 @@
     "download_url": "https://github.com/NgbatzYT/NgbatzSubBoard/releases/latest/NgbatzSubBoard.dll"
   },
   {
-    "name": "TestMod",
+    "name": "Clash sucks at making assetbundles work!",
     "author": "Ngbatz",
     "version": "1.0.0",
     "install_location": "BepInEx/plugins",
