@@ -1,27 +1,62 @@
 [
   {
-    "name": "Totally real mod that totally exists trust me!",
-    "author": "Ngbatz",
-    "version": "1.0.0",
-    "git_path": "NgbatzYT/AreYouBored",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/NgbatzYT/AreYouBored/releases/latest/download/AreYouBored.dll"
+    "name": "BepInEx",
+    "author": "BepInEx",
+    "version": "5.4.23.5",
+    "git_path": "BepInEx/BepInEx",
+    "dependencies": [
+      "Utilla"
+    ],
+    "group": "Core",
+    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.5/BepInEx_win_x64_5.4.23.5.zip"
   },
   {
-    "name": "Ngbatz's Sub Board",
+    "name": "Utilla",
+    "author": "SirKingBinx",
+    "version": "1.6.28",
+    "git_path": "sirkingbinx/Utilla",
+    "group": "Core",
+    "download_url": "https://github.com/sirkingbinx/Utilla/releases/download/1.6.28/Utilla.dll"
+  },
+  {
+    "name": "NgbatzSubBoard",
     "author": "Ngbatz",
     "version": "1.0.0",
     "git_path": "NgbatzYT/NgbatzSubBoard",
-    "group": "Tweaks / Tools",
+    "group": "Cosmetic",
     "download_url": "https://github.com/NgbatzYT/NgbatzSubBoard/releases/latest/NgbatzSubBoard.dll"
   },
   {
-    "name": "Clash sucks at making assetbundles work!",
+    "name": "Monke Cosmetics",
     "author": "Ngbatz",
-    "version": "1.0.0",
+    "version": "1.0.4",
     "install_location": "BepInEx/plugins",
-    "git_path": "NgbatzYT/NgbatzSubBoard",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/NgbatzYT/CIBackgroundSwitcher/releases/download/1.0.0/CIBackgroundSwitcher.zip"
-  }
+    "git_path": "NgbatzYT/MonkeCosmetics",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/NgbatzYT/MonkeCosmetics/releases/latest/download/MonkeCosmetics.dll"
+  },
+  {
+			"name": "BingusNametags++",
+			"author": "bingus",
+			"version": "1.4.0",
+			"gitPath": "sirkingbinx/BingusNametagsPlusPlus",
+			"group": "Cosmetic",
+			"download_url": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/latest/download/BingusNametagsPlusPlus.BepInEx.zip"
+		},
+		{
+			"name": "HoneyLib",
+			"author": "Buzz",
+			"version": "1.1.5",
+			"gitPath": "BzzzThe18th/HoneyLib",
+			"group": "Libraries",
+			"download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/latest/download/HoneyLib.dll"
+		},
+		{
+			"name": "NoForestBarrier",
+			"author": "Silvaz",
+			"version": "1.0.1",
+			"gitPath": "SilvazWasTaken/NoForestBarrier",
+			"group": "Tweaks",
+			"download_url": "https://github.com/SilvazWasTaken/NoForestBarrier/releases/latest/download/NoForestBarrier.dll"
+		},
 ]
