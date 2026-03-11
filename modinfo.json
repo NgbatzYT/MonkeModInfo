@@ -36,27 +36,27 @@
     "download_url": "https://github.com/NgbatzYT/MonkeCosmetics/releases/latest/download/MonkeCosmetics.dll"
   },
   {
-			"name": "BingusNametags++",
-			"author": "bingus",
-			"version": "1.4.0",
-			"gitPath": "sirkingbinx/BingusNametagsPlusPlus",
-			"group": "Cosmetic",
-			"download_url": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/latest/download/BingusNametagsPlusPlus.BepInEx.zip"
-		},
-		{
-			"name": "HoneyLib",
-			"author": "Buzz",
-			"version": "1.1.5",
-			"gitPath": "BzzzThe18th/HoneyLib",
-			"group": "Libraries",
-			"download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/latest/download/HoneyLib.dll"
-		},
-		{
-			"name": "NoForestBarrier",
-			"author": "Silvaz",
-			"version": "1.0.1",
-			"gitPath": "SilvazWasTaken/NoForestBarrier",
-			"group": "Tweaks",
-			"download_url": "https://github.com/SilvazWasTaken/NoForestBarrier/releases/latest/download/NoForestBarrier.dll"
-		},
+    "name": "BingusNametags++",
+    "author": "bingus",
+    "version": "1.4.0",
+    "git_path": "sirkingbinx/BingusNametagsPlusPlus",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/latest/download/BingusNametagsPlusPlus.BepInEx.zip"
+  },
+  {
+    "name": "HoneyLib",
+    "author": "Buzz",
+    "version": "1.1.5",
+    "git_path": "BzzzThe18th/HoneyLib",
+    "group": "Libraries",
+    "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/latest/download/HoneyLib.dll"
+  },
+  {
+    "name": "NoForestBarrier",
+    "author": "Silvaz",
+    "version": "1.0.1",
+    "git_path": "SilvazWasTaken/NoForestBarrier",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/SilvazWasTaken/NoForestBarrier/releases/latest/download/NoForestBarrier.dll"
+  }
 ]
