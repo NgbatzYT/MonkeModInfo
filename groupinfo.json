@@ -4,6 +4,10 @@
     "rank" : 0
   },
   {
+    "name" : "Libraries",
+    "rank" : 1
+  },
+  {
     "name" : "Cosmetic",
     "rank" : 2
   },
@@ -14,10 +18,6 @@
   {
     "name" : "Tweaks / Tools",
     "rank" : 4
-  },
-  {
-    "name" : "Libraries",
-    "rank" : 1
   }
-
 ]
+
