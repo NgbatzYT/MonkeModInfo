@@ -4,9 +4,6 @@
     "author": "BepInEx",
     "version": "5.4.23.5",
     "git_path": "BepInEx/BepInEx",
-    "dependencies": [
-      "Utilla"
-    ],
     "group": "Core",
     "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.5/BepInEx_win_x64_5.4.23.5.zip"
   },
@@ -36,14 +33,6 @@
     "download_url": "https://github.com/NgbatzYT/MonkeCosmetics/releases/latest/download/MonkeCosmetics.dll"
   },
   {
-    "name": "BingusNametags++",
-    "author": "bingus",
-    "version": "1.4.0",
-    "git_path": "sirkingbinx/BingusNametagsPlusPlus",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/latest/download/BingusNametagsPlusPlus.BepInEx.zip"
-  },
-  {
     "name": "Bepinject",
     "author": "Auros",
     "version": "1.0.1",
@@ -71,13 +60,5 @@
     "git_path": "BzzzThe18th/HoneyLib",
     "group": "Libraries",
     "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/latest/download/HoneyLib.dll"
-  },
-  {
-    "name": "NoForestBarrier",
-    "author": "Silvaz",
-    "version": "1.0.1",
-    "git_path": "SilvazWasTaken/NoForestBarrier",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/SilvazWasTaken/NoForestBarrier/releases/latest/download/NoForestBarrier.dll"
   }
 ]
