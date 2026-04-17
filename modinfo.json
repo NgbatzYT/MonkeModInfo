@@ -16,12 +16,12 @@
     "download_url": "https://github.com/sirkingbinx/Utilla/releases/download/1.6.28/Utilla.dll"
   },
   {
-    "name": "NgbatzSubBoard",
-    "author": "Ngbatz",
-    "version": "1.0.0",
-    "git_path": "NgbatzYT/NgbatzSubBoard",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/NgbatzYT/NgbatzSubBoard/releases/latest/download/NgbatzSubBoard.dll"
+    "name": "GorillaHands",
+    "author": "cHin",
+    "version": "1.0.3",
+    "git_path": "CrafterBotOfficial/GorillaHands",
+    "group": "Gameplay",
+    "download_url": "https://github.com/CrafterBotOfficial/GorillaHands/releases/download/1.0.3/GorillaHands.dll"
   },
   {
     "name": "Monke Cosmetics",
