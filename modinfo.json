@@ -10,10 +10,10 @@
   {
     "name": "Utilla",
     "author": "SirKingBinx",
-    "version": "1.6.28",
+    "version": "1.6.29",
     "git_path": "sirkingbinx/Utilla",
     "group": "Core",
-    "download_url": "https://github.com/sirkingbinx/Utilla/releases/download/1.6.28/Utilla.dll"
+    "download_url": "https://github.com/sirkingbinx/Utilla/releases/download/1.6.29/Utilla.dll"
   },
   {
     "name": "GorillaHands",
@@ -31,6 +31,15 @@
     "git_path": "NgbatzYT/MonkeCosmetics",
     "group": "Cosmetic",
     "download_url": "https://github.com/NgbatzYT/MonkeCosmetics/releases/latest/download/MonkeCosmetics.dll"
+  },
+  {
+    "name": "GorillaAdBlocker",
+    "author": "kinomonke",
+    "version": "1.0.0",
+    "install_location": "BepInEx/plugins",
+    "git_path": "kinomonke/GorillaAdBlocker",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/kinomonke/GorillaAdBlocker/releases/download/Release/GorillaAdBlocker.dll"
   },
   {
     "name": "Bepinject",
