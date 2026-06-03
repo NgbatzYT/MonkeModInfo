@@ -1,6 +1,6 @@
 [
   {
-    "name": "BepInEx",
+    "name": "BepInEx", 
     "author": "BepInEx",
     "version": "5.4.23.5",
     "git_path": "BepInEx/BepInEx",
@@ -10,37 +10,28 @@
   {
     "name": "Utilla",
     "author": "SirKingBinx",
-    "version": "1.6.29",
+    "version": "1.7.0",
     "git_path": "sirkingbinx/Utilla",
     "group": "Core",
-    "download_url": "https://github.com/sirkingbinx/Utilla/releases/download/1.6.29/Utilla.dll"
-  },
-  {
-    "name": "GorillaHands",
-    "author": "cHin",
-    "version": "1.0.3",
-    "git_path": "CrafterBotOfficial/GorillaHands",
-    "group": "Gameplay",
-    "download_url": "https://github.com/CrafterBotOfficial/GorillaHands/releases/download/1.0.3/GorillaHands.dll"
+    "download_url": "https://github.com/sirkingbinx/Utilla/releases/download/1.7.0/Utilla.dll"
   },
   {
     "name": "Monke Cosmetics",
     "author": "Ngbatz",
-    "version": "1.0.4",
+    "version": "2.0.0-Beta",
     "install_location": "BepInEx/plugins",
     "git_path": "NgbatzYT/MonkeCosmetics",
     "group": "Cosmetic",
-    "download_url": "https://github.com/NgbatzYT/MonkeCosmetics/releases/latest/download/MonkeCosmetics.dll"
+    "download_url": "https://github.com/NgbatzYT/MonkeCosmetics/releases/latest/download/MonkeCosmetics.zip"
   },
   {
-    "name": "GorillaAdBlocker",
-    "author": "kinomonke",
-    "version": "1.0.0",
-    "install_location": "BepInEx/plugins",
-    "git_path": "kinomonke/GorillaAdBlocker",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/kinomonke/GorillaAdBlocker/releases/download/Release/GorillaAdBlocker.dll"
-  },
+			"name": "BingusNametags++",
+			"author": "bingus",
+			"version": "1.5.0",
+			"gitPath": "sirkingbinx/BingusNametagsPlusPlus",
+			"group": "Cosmetic",
+			"browser_download_url": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/latest/download/BingusNametagsPlusPlus.dll"
+	},
   {
     "name": "Bepinject",
     "author": "Auros",
