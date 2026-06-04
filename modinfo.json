@@ -60,5 +60,48 @@
     "git_path": "BzzzThe18th/HoneyLib",
     "group": "Libraries",
     "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/latest/download/HoneyLib.dll"
-  }
+  },
+	{
+			"name": "NoForestBarrier",
+			"author": "Silvaz",
+			"version": "1.0.1",
+			"gitPath": "SilvazWasTaken/NoForestBarrier",
+			"group": "Tweaks",
+			"dependencies": ["Utilla"],
+			"browser_download_url": "https://github.com/SilvazWasTaken/NoForestBarrier/releases/latest/download/NoForestBarrier.dll"
+		},
+		{
+			"name": "Bark",
+			"author": "KyleTheScientist & SSakuraa",
+			"version": "3.0.0",
+			"gitPath": "SakuraaDevelopment/Bark-v3",
+			"group": "Gameplay",
+			"dependencies": ["Utilla"],
+			"browser_download_url": "https://github.com/SakuraaDevelopment/Bark-v3/releases/latest/download/Bark.dll"
+		}
+		{
+			"name": "Several Bees",
+			"author": "Sev",
+			"version": "2.5.1",
+			"gitPath": "sevvy-wevvy/Several-Bees",
+			"group": "Libraries",
+			"browser_download_url": "https://github.com/sevvy-wevvy/Several-Bees/releases/latest/download/SeveralBees-Gtag.dll"
+		},
+		{
+			"name": "Gorilla Optimizer",
+			"author": "Sev",
+			"version": "1.1.0",
+			"gitPath": "sevvy-wevvy/Gorilla-Optimizer",
+			"group": "Tweaks",
+			"dependencies": ["Several Bees"],
+			"browser_download_url": "https://github.com/sevvy-wevvy/Gorilla-Optimizer/releases/latest/download/GorillaOptimizer.dll"
+		},
+		{
+			"name": "OculusReportMenu",
+			"author": "bingus",
+			"version": "2.4.0",
+			"gitPath": "sirkingbinx/OculusReportMenu",
+			"group": "Tweaks",
+			"browser_download_url": "https://github.com/sirkingbinx/OculusReportMenu/releases/latest/download/OculusReportMenu.BepInEx.dll"
+		},
 ]
