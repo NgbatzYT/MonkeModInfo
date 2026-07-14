@@ -1,6 +1,6 @@
 [
   {
-    "name": "BepInEx", 
+    "name": "BepInEx",
     "author": "BepInEx",
     "version": "5.4.23.5",
     "git_path": "BepInEx/BepInEx",
@@ -25,13 +25,13 @@
     "download_url": "https://github.com/NgbatzYT/MonkeCosmetics/releases/latest/download/MonkeCosmetics.zip"
   },
   {
-			"name": "BingusNametags++",
-			"author": "bingus",
-			"version": "1.5.0",
-			"gitPath": "sirkingbinx/BingusNametagsPlusPlus",
-			"group": "Cosmetic",
-			"download_url": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/latest/download/BingusNametagsPlusPlus.dll"
-	},
+    "name": "BingusNametags++",
+    "author": "bingus",
+    "version": "1.5.0",
+    "git_path": "sirkingbinx/BingusNametagsPlusPlus",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/latest/download/BingusNametagsPlusPlus.dll"
+  },
   {
     "name": "Bepinject",
     "author": "Auros",
@@ -61,47 +61,61 @@
     "group": "Libraries",
     "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/latest/download/HoneyLib.dll"
   },
-	{
-			"name": "NoForestBarrier",
-			"author": "Silvaz",
-			"version": "1.0.1",
-			"gitPath": "SilvazWasTaken/NoForestBarrier",
-			"group": "Tweaks",
-			"dependencies": ["Utilla"],
-			"browser_download_url": "https://github.com/SilvazWasTaken/NoForestBarrier/releases/latest/download/NoForestBarrier.dll"
-		},
-		{
-			"name": "Bark",
-			"author": "KyleTheScientist & SSakuraa",
-			"version": "3.0.0",
-			"gitPath": "SakuraaDevelopment/Bark-v3",
-			"group": "Gameplay",
-			"dependencies": ["Utilla"],
-			"browser_download_url": "https://github.com/SakuraaDevelopment/Bark-v3/releases/latest/download/Bark.dll"
-		}
-		{
-			"name": "Several Bees",
-			"author": "Sev",
-			"version": "2.5.1",
-			"gitPath": "sevvy-wevvy/Several-Bees",
-			"group": "Libraries",
-			"browser_download_url": "https://github.com/sevvy-wevvy/Several-Bees/releases/latest/download/SeveralBees-Gtag.dll"
-		},
-		{
-			"name": "Gorilla Optimizer",
-			"author": "Sev",
-			"version": "1.1.0",
-			"gitPath": "sevvy-wevvy/Gorilla-Optimizer",
-			"group": "Tweaks",
-			"dependencies": ["Several Bees"],
-			"browser_download_url": "https://github.com/sevvy-wevvy/Gorilla-Optimizer/releases/latest/download/GorillaOptimizer.dll"
-		},
-		{
-			"name": "OculusReportMenu",
-			"author": "bingus",
-			"version": "2.4.0",
-			"gitPath": "sirkingbinx/OculusReportMenu",
-			"group": "Tweaks",
-			"browser_download_url": "https://github.com/sirkingbinx/OculusReportMenu/releases/latest/download/OculusReportMenu.BepInEx.dll"
-		},
+  {
+    "name": "NoForestBarrier",
+    "author": "Silvaz",
+    "version": "1.0.1",
+    "git_path": "SilvazWasTaken/NoForestBarrier",
+    "group": "Tweaks",
+    "dependencies": [
+      "Utilla"
+    ],
+    "download_url": "https://github.com/SilvazWasTaken/NoForestBarrier/releases/latest/download/NoForestBarrier.dll"
+  },
+  {
+    "name": "Bark",
+    "author": "KyleTheScientist & SSakuraa",
+    "version": "3.0.0",
+    "git_path": "SakuraaDevelopment/Bark-v3",
+    "group": "Gameplay",
+    "dependencies": [
+      "Utilla"
+    ],
+    "download_url": "https://github.com/SakuraaDevelopment/Bark-v3/releases/latest/download/Bark.dll"
+  },
+  {
+    "name": "Several Bees",
+    "author": "Sev",
+    "version": "2.5.1",
+    "git_path": "sevvy-wevvy/Several-Bees",
+    "group": "Libraries",
+    "download_url": "https://github.com/sevvy-wevvy/Several-Bees/releases/latest/download/SeveralBees-Gtag.dll"
+  },
+  {
+    "name": "Gorilla Optimizer",
+    "author": "Sev",
+    "version": "1.1.0",
+    "git_path": "sevvy-wevvy/Gorilla-Optimizer",
+    "group": "Tweaks",
+    "dependencies": [
+      "Several Bees"
+    ],
+    "download_url": "https://github.com/sevvy-wevvy/Gorilla-Optimizer/releases/latest/download/GorillaOptimizer.dll"
+  },
+  {
+    "name": "OculusReportMenu",
+    "author": "bingus",
+    "version": "2.4.0",
+    "git_path": "sirkingbinx/OculusReportMenu",
+    "group": "Tweaks",
+    "download_url": "https://github.com/sirkingbinx/OculusReportMenu/releases/latest/download/OculusReportMenu.BepInEx.dll"
+  },
+  {
+    "name": "SevsBetterNametags",
+    "author": "Sev",
+    "version": "1.0.0",
+    "git_path": "sevvy-wevvy/Sevs-Better-Nametags",
+    "group": "Tweaks",
+    "download_url": "https://github.com/sevvy-wevvy/Sevs-Better-Nametags/releases/latest/download/Sevs.Better.Nametags.dll"
+  }
 ]
