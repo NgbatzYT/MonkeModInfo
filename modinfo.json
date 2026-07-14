@@ -66,7 +66,7 @@
     "author": "Silvaz",
     "version": "1.0.1",
     "git_path": "SilvazWasTaken/NoForestBarrier",
-    "group": "Tweaks",
+    "group": "Tweaks / Tools",
     "dependencies": [
       "Utilla"
     ],
@@ -96,7 +96,7 @@
     "author": "Sev",
     "version": "1.1.0",
     "git_path": "sevvy-wevvy/Gorilla-Optimizer",
-    "group": "Tweaks",
+    "group": "Tweaks / Tools",
     "dependencies": [
       "Several Bees"
     ],
@@ -107,7 +107,7 @@
     "author": "bingus",
     "version": "2.4.0",
     "git_path": "sirkingbinx/OculusReportMenu",
-    "group": "Tweaks",
+    "group": "Tweaks / Tools",
     "download_url": "https://github.com/sirkingbinx/OculusReportMenu/releases/latest/download/OculusReportMenu.BepInEx.dll"
   },
   {
@@ -115,7 +115,23 @@
     "author": "Sev",
     "version": "1.0.0",
     "git_path": "sevvy-wevvy/Sevs-Better-Nametags",
-    "group": "Tweaks",
+    "group": "Tweaks / Tools",
     "download_url": "https://github.com/sevvy-wevvy/Sevs-Better-Nametags/releases/latest/download/Sevs.Better.Nametags.dll"
+  },
+  {
+    "name": "TopMaps",
+    "author": "Ghosty",
+    "version": "1.1.0",
+    "git_path": "ghosstyy11/Top-Troops",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/ghosstyy11/Top-Troops/releases/latest/download/TopTroops.dll"
+  },
+  {
+    "name": "TopTroops",
+    "author": "Ghosty",
+    "version": "1.0.0",
+    "git_path": "ghosstyy11/Top-Maps",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/ghosstyy11/Top-Maps/releases/latest/download/TopMaps.dll"
   }
 ]
