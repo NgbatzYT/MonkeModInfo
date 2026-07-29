@@ -107,6 +107,7 @@
     "author": "Several (Check README)",
     "version": "2.0.0",
     "git_path": "DecalFree/ComputerInterface",
+    "install_location": "BepInEx/plugins",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/DecalFree/ComputerInterface/releases/latest/download/ComputerInterface.zip"
   },
