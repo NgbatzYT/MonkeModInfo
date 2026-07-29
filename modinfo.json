@@ -103,6 +103,15 @@
     "download_url": "https://github.com/sevvy-wevvy/Gorilla-Optimizer/releases/latest/download/GorillaOptimizer.dll"
   },
   {
+    "name": "Computer Interface",
+    "author": "Several (Check README)",
+    "version": "2.0.0",
+    "git_path": "DecalFree/ComputerInterface",
+    "install_location": "BepInEx/plugins",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/DecalFree/ComputerInterface/releases/latest/download/ComputerInterface.zip"
+  },
+  {
     "name": "OculusReportMenu",
     "author": "bingus",
     "version": "2.4.0",
