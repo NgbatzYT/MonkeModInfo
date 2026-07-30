@@ -128,17 +128,17 @@
     "download_url": "https://github.com/sevvy-wevvy/Sevs-Better-Nametags/releases/latest/download/Sevs.Better.Nametags.dll"
   },
   {
-    "name": "TopMaps",
+    "name": "TopTroops",
     "author": "Ghosty",
-    "version": "1.1.0",
+    "version": "1.0.0",
     "git_path": "ghosstyy11/Top-Troops",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/ghosstyy11/Top-Troops/releases/latest/download/TopTroops.dll"
   },
   {
-    "name": "TopTroops",
+    "name": "TopMaps",
     "author": "Ghosty",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "git_path": "ghosstyy11/Top-Maps",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/ghosstyy11/Top-Maps/releases/latest/download/TopMaps.dll"
