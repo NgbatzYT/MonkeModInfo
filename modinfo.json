@@ -18,11 +18,10 @@
   {
     "name": "Monke Cosmetics",
     "author": "Ngbatz",
-    "version": "2.0.0-Beta",
-    "install_location": "BepInEx/plugins",
+    "version": "2.1.0",
     "git_path": "NgbatzYT/MonkeCosmetics",
     "group": "Cosmetic",
-    "download_url": "https://github.com/NgbatzYT/MonkeCosmetics/releases/latest/download/MonkeCosmetics.zip"
+    "download_url": "https://github.com/NgbatzYT/MonkeCosmetics/releases/latest/download/MonkeCosmetics.dll"
   },
   {
     "name": "BingusNametags++",
