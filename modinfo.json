@@ -134,12 +134,20 @@
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/ghosstyy11/Top-Troops/releases/latest/download/TopTroops.dll"
   },
-  {
+ {
     "name": "TopMaps",
     "author": "Ghosty",
     "version": "1.1.0",
     "git_path": "ghosstyy11/Top-Maps",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/ghosstyy11/Top-Maps/releases/latest/download/TopMaps.dll"
+  },
+  {
+    "name": "RoomCodeDisplay",
+    "author": "Olibobs",
+    "version": "1.3.0",
+    "git_path": "Olibobs81/RoomCodeDisplay",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/Olibobs81/RoomCodeDisplay/releases/latest/download/RoomCodeDisplay.dll"
   }
 ]
