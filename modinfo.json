@@ -119,6 +119,14 @@
     "download_url": "https://github.com/sirkingbinx/OculusReportMenu/releases/latest/download/OculusReportMenu.BepInEx.dll"
   },
   {
+    "name": "GorillaSounds",
+    "author": "atp892",
+    "version": "1.1.0",
+    "git_path": "atp892/GorillaSounds",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/atp892/GorillaSounds/releases/latest/download/GorillaSounds.dll"
+  },
+  {
     "name": "SevsBetterNametags",
     "author": "Sev",
     "version": "1.0.0",
