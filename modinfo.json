@@ -61,6 +61,14 @@
     "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/latest/download/HoneyLib.dll"
   },
   {
+    "name": "Potassium",
+    "author": "niko-tar-gz",
+    "version": "1.0.0",
+    "git_path": "NikoTarGz/Potassium",
+    "group": "Libraries",
+    "download_url": "https://github.com/niko-tar-gz/Potassium/releases/download/v1.0.0-release/Potassium.dll"
+  },
+  {
     "name": "NoForestBarrier",
     "author": "Silvaz",
     "version": "1.0.1",
@@ -81,6 +89,14 @@
       "Utilla"
     ],
     "download_url": "https://github.com/SakuraaDevelopment/Bark-v3/releases/latest/download/Bark.dll"
+  },
+    {
+    "name": "GetBlocked",
+    "author": "SmoothesHub",
+    "version": "1.0.0",
+    "git_path": "SmoothesHub/GetBlocked",
+    "group": "Gameplay",
+    "download_url": "https://github.com/SmoothesHub/GetBlocked/releases/download/GetBlocked/GetBlocked.dll"
   },
   {
     "name": "Several Bees",
