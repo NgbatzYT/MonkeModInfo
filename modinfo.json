@@ -73,14 +73,14 @@
   },
   {
     "name": "Bark",
-    "author": "KyleTheScientist & SSakuraa",
-    "version": "3.0.0",
-    "git_path": "SakuraaDevelopment/Bark-v3",
+    "author": "KyleTheScientist & Ngbatz",
+    "version": "3.0.1",
+    "git_path": "NgbatzYT/Bark",
     "group": "Gameplay",
     "dependencies": [
       "Utilla"
     ],
-    "download_url": "https://github.com/SakuraaDevelopment/Bark-v3/releases/latest/download/Bark.dll"
+    "download_url": "https://github.com/NgbatzYT/Bark/releases/latest/download/Bark.dll"
   },
   {
     "name": "Several Bees",
