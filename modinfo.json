@@ -26,50 +26,10 @@
   {
     "name": "BingusNametags++",
     "author": "bingus",
-    "version": "1.5.0",
+    "version": "1.7.5",
     "git_path": "sirkingbinx/BingusNametagsPlusPlus",
     "group": "Cosmetic",
     "download_url": "https://github.com/sirkingbinx/BingusNametagsPlusPlus/releases/latest/download/BingusNametagsPlusPlus.dll"
-  },
-  {
-    "name": "Bepinject",
-    "author": "Auros",
-    "version": "1.0.1",
-    "dependencies": [
-      "Extenject"
-    ],
-    "install_location": "BepInEx/plugins",
-    "git_path": "Auros/Bepinject",
-    "group": "Libraries",
-    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
-  },
-  {
-    "name": "Extenject",
-    "author": "svermeulen",
-    "version": "1.0.1",
-    "install_location": "BepInEx/plugins",
-    "git_path": "Auros/Bepinject",
-    "group": "Libraries",
-    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
-  },
-  {
-    "name": "HoneyLib",
-    "author": "Buzz",
-    "version": "1.1.5",
-    "git_path": "BzzzThe18th/HoneyLib",
-    "group": "Libraries",
-    "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/latest/download/HoneyLib.dll"
-  },
-  {
-    "name": "NoForestBarrier",
-    "author": "Silvaz",
-    "version": "1.0.1",
-    "git_path": "SilvazWasTaken/NoForestBarrier",
-    "group": "Tweaks / Tools",
-    "dependencies": [
-      "Utilla"
-    ],
-    "download_url": "https://github.com/SilvazWasTaken/NoForestBarrier/releases/latest/download/NoForestBarrier.dll"
   },
   {
     "name": "Bark",
@@ -83,25 +43,6 @@
     "download_url": "https://github.com/NgbatzYT/Bark/releases/latest/download/Bark.dll"
   },
   {
-    "name": "Several Bees",
-    "author": "Sev",
-    "version": "2.5.1",
-    "git_path": "sevvy-wevvy/Several-Bees",
-    "group": "Libraries",
-    "download_url": "https://github.com/sevvy-wevvy/Several-Bees/releases/latest/download/SeveralBees-Gtag.dll"
-  },
-  {
-    "name": "Gorilla Optimizer",
-    "author": "Sev",
-    "version": "1.1.0",
-    "git_path": "sevvy-wevvy/Gorilla-Optimizer",
-    "group": "Tweaks / Tools",
-    "dependencies": [
-      "Several Bees"
-    ],
-    "download_url": "https://github.com/sevvy-wevvy/Gorilla-Optimizer/releases/latest/download/GorillaOptimizer.dll"
-  },
-  {
     "name": "Computer Interface",
     "author": "Several (Check README)",
     "version": "2.1.2",
@@ -111,27 +52,11 @@
     "download_url": "https://github.com/DecalFree/ComputerInterface/releases/latest/download/ComputerInterface-BepInEx.zip"
   },
   {
-    "name": "OculusReportMenu",
-    "author": "bingus",
-    "version": "2.4.0",
-    "git_path": "sirkingbinx/OculusReportMenu",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/sirkingbinx/OculusReportMenu/releases/latest/download/OculusReportMenu.BepInEx.dll"
-  },
-  {
-    "name": "SevsBetterNametags",
-    "author": "Sev",
-    "version": "1.0.0",
-    "git_path": "sevvy-wevvy/Sevs-Better-Nametags",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/sevvy-wevvy/Sevs-Better-Nametags/releases/latest/download/Sevs.Better.Nametags.dll"
-  },
-  {
-    "name": "TopTroops",
-    "author": "Ghosty",
-    "version": "1.0.0",
-    "git_path": "ghosstyy11/Top-Troops",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/ghosstyy11/Top-Troops/releases/latest/download/TopTroops.dll"
+    "name": "Pizza Delivery",
+    "author": "1NobleDuck! & Ngbatz",
+    "version": "1.0.1",
+    "git_path": "NgbatzYT/PizzaDelivery",
+    "group": "Gameplay",
+    "download_url": "https://github.com/NgbatzYT/PizzaDelivery/releases/latest/download/PizzaDelivery.dll"
   }
 ]
