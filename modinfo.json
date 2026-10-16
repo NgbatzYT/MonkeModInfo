@@ -57,6 +57,36 @@
     "version": "1.0.1",
     "git_path": "NgbatzYT/PizzaDelivery",
     "group": "Gameplay",
+    "dependencies": [
+      "Utilla"
+    ],
     "download_url": "https://github.com/NgbatzYT/PizzaDelivery/releases/latest/download/PizzaDelivery.dll"
-  }
+  },
+  {
+    "name": "Gorilla Hands",
+    "author": "Crafterbot",
+    "version": "1.0.3.1",
+    "git_path": "CrafterBotOfficial/GorillaHands",
+    "group": "Gameplay",
+    "dependencies": [
+      "Utilla"
+    ],
+    "download_url": "https://github.com/CrafterBotOfficial/GorillaHands/releases/latest/download/GorillaHands.dll"
+  },
+  {
+    "name": "GetBlocked",
+    "author": "SmoothesHub",
+    "version": "1.0.0",
+    "git_path": "SmoothesHub/GetBlocked",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/SmoothesHub/GetBlocked/releases/download/GetBlocked/GetBlocked.dll"
+  },
+  {
+    "name": "OldModes",
+    "author": "ToastConcern",
+    "version": "1.1.0",
+    "git_path": "Toastconcern/OldModes",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/Toastconcern/OldModes/releases/latest/download/OldModes.dll"
+  },
 ]
