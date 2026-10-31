@@ -45,7 +45,7 @@
   {
     "name": "Computer Interface",
     "author": "Several (Check README)",
-    "version": "2.1.3",
+    "version": "2.1.4",
     "git_path": "DecalFree/ComputerInterface",
     "install_location": "BepInEx/plugins",
     "group": "Tweaks / Tools",
