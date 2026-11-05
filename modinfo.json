@@ -10,7 +10,7 @@
   {
     "name": "Utilla",
     "author": "SirKingBinx",
-    "version": "1.7.2",
+    "version": "1.7.3",
     "git_path": "sirkingbinx/Utilla",
     "group": "Core",
     "download_url": "https://github.com/sirkingbinx/Utilla/releases/latest/download/Utilla.dll"
@@ -26,7 +26,7 @@
   {
     "name": "Monke Cosmetics",
     "author": "Ngbatz",
-    "version": "2.2",
+    "version": "2.201",
     "git_path": "NgbatzYT/MonkeCosmetics",
     "group": "Cosmetic",
     "download_url": "https://github.com/NgbatzYT/MonkeCosmetics/releases/latest/download/MonkeCosmetics.dll"
