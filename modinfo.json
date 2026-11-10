@@ -24,9 +24,17 @@
     "download_url": "https://github.com/GorillaTagModdingHub/GorillaLibrary/releases/latest/download/GorillaLibrary.dll"
   },
   {
+    "name": "GorillaLibrary",
+    "author": "Developer9998",
+    "version": "2.4.8",
+    "git_path": "developer9998/GorillaShirts",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaShirts/releases/latest/download/GorillaShirts.dll"
+  },
+  {
     "name": "Monke Cosmetics",
     "author": "Ngbatz",
-    "version": "2.201",
+    "version": "2.2011",
     "git_path": "NgbatzYT/MonkeCosmetics",
     "group": "Cosmetic",
     "download_url": "https://github.com/NgbatzYT/MonkeCosmetics/releases/latest/download/MonkeCosmetics.dll"
