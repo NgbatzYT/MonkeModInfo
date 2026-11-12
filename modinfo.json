@@ -86,7 +86,7 @@
   {
     "name": "Bark",
     "author": "KyleTheScientist & Ngbatz",
-    "version": "3.0.1",
+    "version": "3.0.2",
     "git_path": "NgbatzYT/Bark",
     "group": "Gameplay",
     "dependencies": [
