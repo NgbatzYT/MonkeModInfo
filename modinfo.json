@@ -24,6 +24,17 @@
     "download_url": "https://github.com/GorillaTagModdingHub/GorillaLibrary/releases/latest/download/GorillaLibrary.dll"
   },
   {
+    "name": "MonoSandbox",
+    "author": "developer9998",
+    "version": "1.2.4",
+    "git_path": "developer9998/MonoSandbox",
+    "group": "Gameplay",
+    "dependencies": [
+      "GorillaLibrary"
+    ],
+    "download_url": "https://github.com/developer9998/MonoSandbox/releases/latest/download/MonoSandbox.dll"
+  },
+  {
     "name": "GorillaShirts",
     "author": "developer9998",
     "version": "2.4.9",
@@ -33,6 +44,28 @@
       "GorillaLibrary"
     ],
     "download_url": "https://github.com/developer9998/GorillaShirts/releases/latest/download/GorillaShirts.dll"
+  },
+  {
+    "name": "GorillaInfoWatch",
+    "author": "developer9998",
+    "version": "1.1.7",
+    "git_path": "developer9998/GorillaInfoWatch",
+    "group": "Tweaks / Tools",
+    "dependencies": [
+      "GorillaLibrary"
+    ],
+    "download_url": "https://github.com/developer9998/GorillaInfoWatch/releases/latest/download/GorillaInfoWatch.dll"
+  },
+  {
+    "name": "MonkePhone",
+    "author": "developer9998",
+    "version": "1.0.10",
+    "git_path": "developer9998/MonkePhone",
+    "group": "Tweaks / Tools",
+    "dependencies": [
+      "GorillaLibrary"
+    ],
+    "download_url": "https://github.com/developer9998/MonkePhone/releases/latest/download/MonkePhone.dll"
   },
   {
     "name": "Monke Cosmetics",
